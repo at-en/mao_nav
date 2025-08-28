@@ -759,9 +759,9 @@ export const mockData = {
           "name": "涂鸦安全应急响应中心",
           "url": "https://security.tuya.com/",
           "description": "涂鸦安全应急响应中心"
-        }，
+        },
         {
-          "id": "tal-src",
+          "id": "tal-src"，
           "name": "好未来安全应急响应中心",
           "url": "https://security.100tal.com/",
           "description": "作者很懒,没有填写描述。"
@@ -771,55 +771,55 @@ export const mockData = {
           "name": "Soul安全应急响应中心",
           "url": "https://security.soulapp.cn/",
           "description": "Soul安全应急响应中心, Security Response Center"
-        },
+        }，
         {
           "id": "huya-src",
           "name": "虎牙安全应急响应中心",
           "url": "https://security.huya.com/",
           "description": "作者很懒,没有填写描述。"
-        },
+        }，
         {
           "id": "creditease-src",
           "name": "宜信安全应急响应中心",
           "url": "https://security.creditease.cn/",
           "description": "宜信安全应急响应中心,CESRC,Creditease Security Response Center,是宜信建立的安全漏洞收集及安全应急响应平台"
-        },
+        }，
         {
           "id": "qunar-src",
           "name": "去哪儿安全应急响应中心",
           "url": "https://security.qunar.com/",
           "description": "作者很懒,没有填写描述。"
-        },
+        }，
         {
           "id": "tuniu-src",
           "name": "途牛安全应急响应中心",
           "url": "https://security.tuniu.com/",
           "description": "作者很懒,没有填写描述。"
-        },
+        }，
         {
           "id": "ceair-src",
           "name": "东航网络安全应急响应中心",
           "url": "https://security.ceair.com/",
           "description": "中国东方航空作为中国三大国有骨干航空公司之一,一直关注并致力于保障高品质航空出行服务,作为航空从业者,安全是我们的根基"
-        },
+        }，
         {
           "id": "dunhuang-src",
           "name": "敦煌安全应急响应中心",
           "url": "https://security.dhgate.com/",
           "description": "作者很懒,没有填写描述。"
-        },
+        }，
         {
           "id": "meilishuo-src",
           "name": "美丽联合安全应急响应中心",
           "url": "https://security.meilishuo.com/",
           "description": "美丽联合集团安全应急响应中心"
-        },
+        }，
         {
           "id": "ziroom-src",
           "name": "自如安全应急响应中心",
           "url": "https://security.ziroom.com/",
           "description": "作者很懒,没有填写描述。"
-        },
+        }，
         {
           "id": "seres-src",
           "name": "赛力斯网络安全应急响应中心",
@@ -828,6 +828,6 @@ export const mockData = {
         }
       ]
     }
-  ]，
+  ],
   "title": "0xShe 网络安全导航"
 };
