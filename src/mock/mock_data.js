@@ -759,13 +759,13 @@ export const mockData = {
           "name": "涂鸦安全应急响应中心",
           "url": "https://security.tuya.com/",
           "description": "涂鸦安全应急响应中心"
-        }，
+        },
         {
           "id": "tal-src",
           "name": "好未来安全应急响应中心",
           "url": "https://security.100tal.com/",
           "description": "作者很懒,没有填写描述。"
-        }，
+        },
         {
           "id": "soul-src",
           "name": "Soul安全应急响应中心",
@@ -828,6 +828,6 @@ export const mockData = {
         }
       ]
     }
-  ]，
+  ],
   "title": "0xShe 网络安全导航"
 };
