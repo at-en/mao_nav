@@ -10,7 +10,7 @@ export const mockData = {
           "id": "t00ls-forum",
           "name": "T00ls论坛",
           "url": "https://www.t00ls.com/",
-          "description": "T00ls,十年民间网络安全老牌社区,聚合安全领域最优秀的人群,低调研究潜心学习讨论各类网络安全知识,为推动中国网络安全进步与技术创新贡献力量！"
+          "description": "T00ls,十年民间网络安全老牌社区,聚合安全领域最优秀的人群,低调研究潜心学习讨论各类网络安全知识,为推动中国网络安全进步与技术创新贡献力量!"
         },
         {
           "id": "qianxin-community",
@@ -88,13 +88,13 @@ export const mockData = {
           "id": "90sec",
           "name": "90Sec",
           "url": "https://forum.90sec.com/",
-          "description": "一个简单的信息安全社区,专注的领域有代码审计、渗透测试、逆向破解等"
+          "description": "一个简单的信息安全社区,专注的领域有代码审计,渗透测试,逆向破解等"
         },
         {
           "id": "wooyun",
           "name": "吾爱漏洞",
           "url": "https://www.wooyun.com/",
-          "description": "吾爱漏洞,国内最专业的网络黑客攻防技术学习基地,免费最新的黑客教程分享！"
+          "description": "吾爱漏洞,国内最专业的网络黑客攻防技术学习基地,免费最新的黑客教程分享!"
         },
         {
           "id": "edge-forum",
@@ -106,7 +106,7 @@ export const mockData = {
           "id": "security-digest",
           "name": "安全文摘",
           "url": "https://www.security-digest.cn/",
-          "description": "代码审计是一个专业、前沿、原创的Web代码安全与审计讨论社区,我们专注于分享原创的代码安全知识、漏洞挖掘方法"
+          "description": "代码审计是一个专业,前沿,原创的Web代码安全与审计讨论社区,我们专注于分享原创的代码安全知识,漏洞挖掘方法"
         }
       ]
     },
@@ -192,7 +192,7 @@ export const mockData = {
           "id": "reverse-shell-generator",
           "name": "反弹Shell在线生成",
           "url": "https://www.revshells.com/",
-          "description": "具有本地存储功能、URI和Base64编码、MSFVenom生成器和原始模式的在线反弹Shell在线生成工具。"
+          "description": "具有本地存储功能,URI和Base64编码,MSFVenom生成器和原始模式的在线反弹Shell在线生成工具。"
         },
         {
           "id": "default-passwords",
