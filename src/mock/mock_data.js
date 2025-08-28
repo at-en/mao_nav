@@ -109,7 +109,7 @@ export const mockData = {
           "description": "代码审计是一个专业、前沿、原创的Web代码安全与审计讨论社区，我们专注于分享原创的代码安全知识、漏洞挖掘方法"
         }
       ]
-    },
+    }，
     {
       "id": "oxshe-tools",
       "name": "0xShe工具",
@@ -121,37 +121,37 @@ export const mockData = {
           "name": "Github [0xShe工具开源]",
           "url": "https://github.com/0xShe/",
           "description": "作者很懒，没有填写描述。"
-        },
+        }，
         {
           "id": "http-batch-tool",
           "name": "批量添加HTTP协议工具",
           "url": "https://sbbbb.cn/tools/http-batch",
           "description": "作者很懒，没有填写描述。"
-        },
+        }，
         {
           "id": "url-dedupe",
           "name": "URL在线去重",
           "url": "https://sbbbb.cn/tools/url-dedupe",
           "description": "作者很懒，没有填写描述。"
-        },
+        }，
         {
           "id": "url-ip-processor",
           "name": "URL & IP 在线处理工具",
           "url": "https://sbbbb.cn/tools/url-ip-processor",
           "description": "作者很懒，没有填写描述。"
-        },
+        }，
         {
           "id": "wordpress-user-leak",
           "name": "wordpress用户名泄漏在线查询工具",
           "url": "https://sbbbb.cn/tools/wordpress-user-leak",
           "description": "wordpress漏洞"
-        },
+        }，
         {
           "id": "attack-cn-matrix",
           "name": "ATT＆CK中文矩阵列表",
           "url": "https://sbbbb.cn/tools/attack-cn-matrix",
           "description": "ATT＆CK中文矩阵列表-🔰0x001网络安全导航🔰"
-        },
+        }，
         {
           "id": "shiro-keys",
           "name": "Shiro Key 10万",
@@ -273,7 +273,7 @@ export const mockData = {
           "description": "作者很懒，没有填写描述。"
         }
       ]
-    },
+    }，
     {
       "id": "social-engineering",
       "name": "社工专区",
@@ -397,7 +397,7 @@ export const mockData = {
           "description": "密码破解工具"
         }
       ]
-    },
+    }，
     {
       "id": "ctf",
       "name": "CTF",
@@ -409,7 +409,7 @@ export const mockData = {
           "name": "CTFtime",
           "url": "https://ctftime.org/",
           "description": "CTF比赛时间表和排名"
-        },
+        }，
         {
           "id": "picoctf",
           "name": "PicoCTF",
@@ -423,7 +423,7 @@ export const mockData = {
           "description": "安全挑战游戏"
         }
       ]
-    },
+    }，
     {
       "id": "anonymous-zone",
       "name": "匿名专区",
@@ -801,7 +801,7 @@ export const mockData = {
           "name": "东航网络安全应急响应中心",
           "url": "https://security.ceair.com/",
           "description": "中国东方航空作为中国三大国有骨干航空公司之一，一直关注并致力于保障高品质航空出行服务，作为航空从业者，安全是我们的根基"
-        },
+        }，
         {
           "id": "dunhuang-src",
           "name": "敦煌安全应急响应中心",
@@ -828,6 +828,6 @@ export const mockData = {
         }
       ]
     }
-  ],
+  ]，
   "title": "0xShe 网络安全导航"
-}
+};
