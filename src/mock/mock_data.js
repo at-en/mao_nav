@@ -2,23 +2,22 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "我的常用",
+      "name": "安全平台",
       "icon": "💥",
       "order": 0,
       "sites": [
         {
           "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
+          "name": "Tools论坛",
+          "url": "https://www.t00ls.com/",
+          "description": "",
+          "icon": "https://www.t00ls.com/static/images/logo.png"
         },
         {
           "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
+          "name": "奇安信攻防社区",
+          "url": "https://forum.butian.net/",
+          "description": ""
         },
         {
           "id": "site-1752649007053",
@@ -481,6 +480,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Atcn导航",
-  "_fileSha": "fa76b0cb6370a570d69ded0400e18cf51d5b1886"
+  "title": "Atcn导航"
 }
